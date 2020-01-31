@@ -1,1 +1,1 @@
-# CPSC-360
+# CPSC-327 Project 1
